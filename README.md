@@ -5,4 +5,4 @@
 
 [Licenses](https://github.com/Qixingchen/quanzi_public/wiki/License)
 
-[百度专版威胁警示]（https://github.com/Qixingchen/quanzi_public/wiki/evil_baidu_SDK）
+[百度专版威胁警示](https://github.com/Qixingchen/quanzi_public/wiki/evil_baidu_SDK)
