@@ -5,8 +5,6 @@
 
 [Licenses](https://github.com/Qixingchen/quanzi_public/wiki/License)
 
-[百度专版威胁警示](https://github.com/Qixingchen/quanzi_public/wiki/evil_baidu_SDK)
-
 [应用权限说明](https://github.com/Qixingchen/quanzi_public/wiki/uses-permission)
 
 ## License For this repo
